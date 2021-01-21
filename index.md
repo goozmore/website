@@ -1,8 +1,10 @@
 +---------------------------------------------------------------------------------------------+
-|Adventure Stories.                                                                           |
-|Adventrica.com                                                                               |
-|Play.Adventrica.com                                                                          |
-|Join.Adventrica.com                                                                          |
+|                             All about Adventrica.com                                        |
++---------------------------------------------------------------------------------------------+
+|The server ips                                                                               |
+|mc.bybluerocket.dk joins server 1                                                            |
+|server1.Adventrica.com 100 Player Server                                                     |
+|server2.Adventrica.com 100 Player Server                                                     |
 +---------------------------------------------------------------------------------------------+
 |Price per Story $0.15 or 1 Purple Gem                                                        |
 |Price for 🌾(Farmer) Rank: $1.99/m($9.99 Once) or 10 Purple Gems                             |
