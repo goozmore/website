@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/goozmore/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goozmore/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[-----------------------------------------------------------------------------------
+|Adventure Stories.
+|Adventrica.com
+|Play.Adventrica.com
+|Join.Adventrica.com
+[-----------------------------------------------------------------------------------
+|Price per Story $0.15 or 1 Purple Gem
+|Price for 🌾(Farmer) Rank: $1.99/m($9.99 Once) or 10 Purple Gems
+|Price for ⚔️(Knight) Rank: $4.99/m ($24.99 Once) or 50 Purple Gems
+|Price for 👑(King or Queen) Rank: $9.99/m ($99.99 Once) or 100 Purple Gems
+[-----------------------------------------------------------------------------------
+|Price for Gemstones (Purple Gem is the rarest stones, and can only be found ingame)
+|Price for 10x Red Gem: $1.00
+|Price for 20x Blue Gem: $1.00
+|Price for 30x Green Gem: $1.00
+[-----------------------------------------------------------------------------------
+|You gain items while playing stories, but you can also go into the cities, mines, & houses, |you can also steal from stores and houses, but if you get caught you will die
+|whenever you die you will loose all you items + Gemstones that is on you
+[-----------------------------------------------------------------------------------
